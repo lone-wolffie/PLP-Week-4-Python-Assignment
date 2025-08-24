@@ -23,8 +23,8 @@ This Python project demonstrates how to read from a file, modify its content, wr
 
 ## How to Run
 
-1.Clone the repository and open it in your editor.
-2. Make sure you have Python installed.
-3.Place your `input_file.txt` in the same directory as the script.
-4. Run the script: `python modified_file.py`
+- Clone the repository and open it in your editor.
+-  Make sure you have Python installed.
+- Place your `input_file.txt` in the same directory as the script.
+- Run the script: `python modified_file.py`
 
